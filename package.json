@@ -1,0 +1,19 @@
+{
+  "name": "aoc-leaderboard",
+  "version": "1.0.0",
+  "description": "Display day to day advent of code leaderboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx servor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fermeaux/advent-of-code-leaderboard-visualizer.git"
+  },
+  "author": "Timothée Fermeaux (fermeaux.t@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fermeaux/advent-of-code-leaderboard-visualizer/issues"
+  },
+  "homepage": "https://github.com/fermeaux/advent-of-code-leaderboard-visualizer#readme"
+}
